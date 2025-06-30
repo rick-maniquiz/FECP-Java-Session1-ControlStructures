@@ -1,4 +1,4 @@
-# LAB 1: Celcius to Farenheit Converter
+# LAB 2: Membership Calculator
 
 ### Cadet Name: Rafael Nico T. Maniquiz
 ### Project Name: FECP-Java-Session1-ControlStructures
